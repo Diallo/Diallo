@@ -13,4 +13,3 @@ Feel free to check out my [personal website](https://diallom.com/).
 https://highmood.diallom.com/  -  https://github.com/high-mood
 
 [Synthetic Interface Generator](https://github.com/Diallo/Synthetic-Interface-Generator)
-- Currently a work in progress. Hopefully a paper will be added to this soon.
